@@ -1,0 +1,13 @@
+chair
+door
+handrail
+downstair
+elevator
+headset
+keyboard
+monitor
+mouse
+pillar
+table
+trashcan
+upstair
